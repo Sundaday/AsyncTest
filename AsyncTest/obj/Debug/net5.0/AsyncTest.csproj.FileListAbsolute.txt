@@ -1,0 +1,16 @@
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\bin\Debug\net5.0\AsyncTest.exe
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\bin\Debug\net5.0\AsyncTest.deps.json
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\bin\Debug\net5.0\AsyncTest.runtimeconfig.json
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\bin\Debug\net5.0\AsyncTest.runtimeconfig.dev.json
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\bin\Debug\net5.0\AsyncTest.dll
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\bin\Debug\net5.0\AsyncTest.pdb
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\obj\Debug\net5.0\AsyncTest.csproj.AssemblyReference.cache
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\obj\Debug\net5.0\AsyncTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\obj\Debug\net5.0\AsyncTest.AssemblyInfoInputs.cache
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\obj\Debug\net5.0\AsyncTest.AssemblyInfo.cs
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\obj\Debug\net5.0\AsyncTest.csproj.CoreCompileInputs.cache
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\obj\Debug\net5.0\AsyncTest.dll
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\obj\Debug\net5.0\refint\AsyncTest.dll
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\obj\Debug\net5.0\AsyncTest.pdb
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\obj\Debug\net5.0\AsyncTest.genruntimeconfig.cache
+D:\Dev\BACKEND\C#\AsyncTest\AsyncTest\obj\Debug\net5.0\ref\AsyncTest.dll
